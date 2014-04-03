@@ -1,3 +1,3 @@
 geoidea-lite
 ============
-Copyright [2014] [GEOIDE.RO]
+Copyright [2014] [GEOIDEA.RO]
