@@ -1,3 +1,3 @@
 geoidea-lite
 ============
-Copyright [2014] [Nadia Panchaud]
+Copyright [2014] [GEOIDE.RO]
